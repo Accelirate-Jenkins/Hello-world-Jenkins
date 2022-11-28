@@ -31,6 +31,7 @@
 				<extensions>true</extensions>
 				<configuration>
                     <cloudHubDeployment>
+						<uri>https://anypoint.mulesoft.com</uri>
                         <muleVersion>4.1.4</muleVersion>
                         <username>Rocky1234567890</username>
                         <password>Rvishal95$$</password>
