@@ -31,15 +31,14 @@
 				<extensions>true</extensions>
 				<configuration>
                     <cloudHubDeployment>
-                        <uri>https://anypoint.mulesoft.com</uri>
-                        <muleVersion>${mule.version}</muleVersion>
-                        <username>${anypoint.username}</username>
-                        <password>${anypoint.password}</password>
-                        <environment>${env}</environment>
-                        <applicationName>${appname}</applicationName>
-                        <businessGroup>${business}</businessGroup>
-                        <workerType>${vCore}</workerType>
-                        <workers>${workers}</workers>
+                        <muleVersion>4.1.4</muleVersion>
+                        <username>Rocky1234567890</username>
+                        <password>Rvishal95$$</password>
+                        <environment>Sandbox</environment>
+                        <applicationName>Hello-World-Jenkins</applicationName>
+                        <businessGroup>Accelirate-Jenkins</businessGroup>
+                        <workerType>Micro</workerType>
+                        <workers>1</workers>
                         <objectStoreV2>true</objectStoreV2>
                     </cloudHubDeployment>
               </configuration>
